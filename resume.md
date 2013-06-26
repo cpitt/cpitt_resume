@@ -53,7 +53,7 @@ http://cpitt.com
 
 ### Deseret International Charities/The Church of Jesus Christ Of Latter-day Saints: Ulaanbaatar, Mongolia Sep. 2007 - Oct. 2009
 #### Volunteer English Teacher/Aid Worker/Missionary 
-* Became fluent in the Mongolian languages
+* Became fluent in the Mongolian language
 * Taught conversational English to various groups including students, professionals, and government officials
 * Assisted individuals in learning religious principles, setting goals, and overcoming obstacles
 * Participated in and organized various humanitarian aid and service projects

@@ -11,7 +11,7 @@ http://cpitt.com
 ##WORK EXPERIENCE:
 
 ###The Church of Jesus Christ of Latter-day Saints: Riverton, UT Apr. 2012 - April 2013
-####Developer
+####Lamp Developer
 * Participated in the development of http://tech.lds.org.
 * Developed custom extensions for Joomla, Mediawiki, PHPBB, and other open source and proprietary platforms.
 * Developed software solutions to meet business needs using a variety of languages and frameworks including PHP, Javascript, jQuery, and SQL
@@ -41,7 +41,7 @@ http://cpitt.com
 * Evaluated code to ensure validity, adherence to industry standards, and compatibility with all major browsers and devices
 * Represented Webligo and helped foster positive customer relationships by moderating and participating in daily discussions with users via the forums 
 
-##EDUCATION:
+## EDUCATION:
 ###Brigham Young University Hawaii  - Apr. 2013 Laie, HI
 **Bachelors of Science** - Information Systems  
 **Bachelors of Science** - Business Management - Supply Chain and Operations Management Track  

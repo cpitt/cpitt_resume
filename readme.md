@@ -1,6 +1,6 @@
 #Cameron Pitt's Resume
 
-Having Entered the job market I found myself growing tired of trying to edit and
+Having entered the job market I found myself growing tired of trying to edit and
 maintain multiple copies of my resume in Word. So like any developer I
 turned to the proven tools that I knew best git, vim, and markdown. With git I can
 maintain multiple branches, with vim I can edit quickly in an environment that I

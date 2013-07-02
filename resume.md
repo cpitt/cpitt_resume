@@ -3,14 +3,6 @@
 me@cpitt.com  
 http://cpitt.com  
 
-##EDUCATION:
-###Brigham Young University Hawaii  - Apr. 2013 Laie, HI
-**Bachelors of Science** - Information Systems  
-**Bachelors of Science** - Business Management - Supply Chain and Operations Management Track  
-**Minors:** Computer Science, Information Technology  
-**Cumulative GPA:** 3.97/4.00  
-**Honors:** Dean's List, Phi Kappa Phi, Upsilon Pi Epsilon, Computer and Information Sciences Outstanding Student Award  
-
 ##SKILLS:
 **Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP (Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK), Python, Perl, C++, SQL  
 **Tools and Other Technologies:** Linux, VIM, Git, SVN, Apache, Nginx, Datamapper, HTML, CSS, HAML, SASS, LESS, Compass, Twitter Bootstrap, Photoshop, Inkscape, Capybara, Android  
@@ -49,7 +41,15 @@ http://cpitt.com
 * Evaluated code to ensure validity, adherence to industry standards, and compatibility with all major browsers and devices
 * Represented Webligo and helped foster positive customer relationships by moderating and participating in daily discussions with users via the forums 
 
-## Organizations: 
+##EDUCATION:
+###Brigham Young University Hawaii  - Apr. 2013 Laie, HI
+**Bachelors of Science** - Information Systems  
+**Bachelors of Science** - Business Management - Supply Chain and Operations Management Track  
+**Minors:** Computer Science, Information Technology  
+**Cumulative GPA:** 3.97/4.00  
+**Honors:** Dean's List, Phi Kappa Phi, Upsilon Pi Epsilon, Computer and Information Sciences Outstanding Student Award  
+
+## Activities: 
 
 ### Deseret International Charities/The Church of Jesus Christ Of Latter-day Saints: Ulaanbaatar, Mongolia Sep. 2007 - Oct. 2009
 #### Volunteer English Teacher/Aid Worker/Missionary 

@@ -4,8 +4,12 @@
 :bust_in_silhouette: http://cpitt.com  
 
 ##Skills:
-**Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP (Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK), Python, Perl, C++, SQL  
-**Tools and Other Technologies:** Linux, VIM, Git, SVN, Apache, Nginx, Datamapper, HTML, CSS, HAML, SASS, LESS, Compass, Twitter Bootstrap, Photoshop, Inkscape, Capybara, Android  
+**Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP
+(Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK),
+Python, Perl, C++, SQL  
+**Tools and Other Technologies:** Linux, VIM, Git, SVN, Apache, Nginx, REST, SOAP, XML, JSON,
+Datamapper, HTML, CSS, HAML, SASS, LESS, Compass, Twitter Bootstrap, Photoshop,
+Inkscape, Capybara, Android  
 **Spoken Languages:** English, Mongolian  
 
 ##Work Experience:
@@ -30,7 +34,7 @@
 
 ### Sherpabooks Inc.: 
 #### Co-founder -- Laie, HI Mar. 2010 - Dec. 2011
-* Oversaw and participated in the development of Sherpabooks.com, an online text-book price comparison engine
+* Oversaw and participated in the development of Sherpabooks.com, an online textbook price comparison engine
 * Contracted with and managed developers and development teams both locally and internationally
 * Maintained understanding of emerging technologies to determine business value and possible future application
 
@@ -40,6 +44,22 @@
 * Identified and corrected coding errors to eliminate software bugs 
 * Evaluated code to ensure validity, adherence to industry standards, and compatibility with all major browsers and devices
 * Represented Webligo and helped foster positive customer relationships by moderating and participating in daily discussions with users via the forums 
+
+# Projects:
+
+## 808Blogs.com -- 2006:
+During my senior year in high school after seeing a rise in popularity of sites like
+livejournal, xanga, blogger, and myspace I set out to develop my own blog
+hosting and social networking site targeted specifically at Hawaii residents. The site
+was built on a existing php platform called bloghoster, but I quickly found that bloghoster 
+did not offer all the features I needed and so began developing modifications for bloghoster.
+The popularity of these modification eventually got me my first dev job working on the bloghoster 
+platform.
+
+## Textbook Comparison Engine -- 2010:
+After disappointments with products received from two separate web-development firms and after Sherpabooks was disbanded I decided to create my own
+textbook price comparison engine. Written in PHP my engine gathered information from various online retailers using SOAP and REST APIs where
+available and page scraping when no APIs were present, and allowed users to search for and compare book prices from various retailers.
 
 ## Education:
 
@@ -61,5 +81,3 @@
 
 ### Boy Scouts of America   
 * Eagle Scout
-
-

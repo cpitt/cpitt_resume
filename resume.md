@@ -47,7 +47,7 @@ Inkscape, Capybara, Android
 
 # Projects:
 
-## 808Blogs.com -- 2006:
+### 808Blogs.com -- 2006:
 During my senior year in high school after seeing a rise in popularity of sites like
 livejournal, xanga, blogger, and myspace I set out to develop my own blog
 hosting and social networking site targeted specifically at Hawaii residents. The site
@@ -56,7 +56,7 @@ did not offer all the features I needed and so began developing modifications fo
 The popularity of these modification eventually got me my first dev job working on the bloghoster 
 platform.
 
-## Textbook Comparison Engine -- 2010:
+### Textbook Comparison Engine -- 2010:
 After disappointments with products received from two separate web-development firms and after Sherpabooks was disbanded I decided to create my own
 textbook price comparison engine. Written in PHP my engine gathered information from various online retailers using SOAP and REST APIs where
 available and page scraping when no APIs were present, and allowed users to search for and compare book prices from various retailers.

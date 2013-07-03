@@ -18,6 +18,7 @@ Inkscape, Capybara, Android
 ####Lamp Developer -- Riverton, UT Apr. 2012 - Apr. 2013
 * Participated in the development of http://tech.lds.org
 * Developed custom extensions for Joomla, Mediawiki, PHPBB, and other open source and proprietary platforms
+* Created and interfaced with RESTful services
 * Developed software solutions to meet business needs using a variety of languages and frameworks including PHP, Javascript, jQuery, and SQL
 
 ###Academic Computing Lab Services, Brigham Young University Hawaii: 

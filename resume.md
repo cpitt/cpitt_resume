@@ -54,7 +54,7 @@ livejournal, xanga, blogger, and myspace I set out to develop my own blog
 hosting and social networking site targeted specifically at Hawaii residents. The site
 was built on a existing php platform called bloghoster, but I quickly found that bloghoster 
 did not offer all the features I needed and so began developing modifications for bloghoster.
-The popularity of these modification eventually got me my first dev job working on the bloghoster 
+The popularity of these modifications eventually got me my first dev job working on the bloghoster 
 platform.
 
 ### Textbook Comparison Engine -- 2011:

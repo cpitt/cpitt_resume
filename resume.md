@@ -8,9 +8,9 @@
 
 ### Fulcrum Technologies: 
 #### Ruby on Rails Engineer -- Seattle, WA Aug. 2013 - Present
-* Participated in the development of Syrvel a modern assert tracking SaaS offering
-  built using tools such as Ruby on Rails, CoffeeScript, Haml, Sass, 
-* Worked as part of an agile team participating in agile processes such as daily
+* Took part in the development of Syrvel a modern asset tracking SaaS offering
+  built using tools such as Ruby on Rails, CoffeeScript, Haml, Sass
+* Was an integral member of an agile team participating in agile processes such as daily
   stand-ups, retrospectives, and iteration planning meetings
 * Collaborated with other developers through paired programming and code reviews
 

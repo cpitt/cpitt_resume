@@ -86,7 +86,7 @@ available and page scraping when no APIs were present, and allowed users to sear
 ##Skills:
 **Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP
 (Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK),
-Python, Perl, C++, SQL
+Python, Perl, C++, SQL  
 **Tools and Other Technologies:** Linux, vim, Git, SVN, Apache, Nginx, REST, SOAP, XML, JSON,
-Datamapper, HTML, CSS, HAML, SASS, LESS, Compass, Twitter Bootstrap, Capybara, Android
+Datamapper, HTML, CSS, HAML, SASS, LESS, Compass, Twitter Bootstrap, Capybara, Android  
 **Spoken Languages:** English, Mongolian

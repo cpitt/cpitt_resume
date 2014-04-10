@@ -3,32 +3,32 @@
 :envelope:   me@cpitt.com  
 :bust_in_silhouette: http://cpitt.com  
 
-##Skills:
-**Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP
-(Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK),
-Python, Perl, C++, SQL  
-**Tools and Other Technologies:** Linux, VIM, Git, SVN, Apache, Nginx, REST, SOAP, XML, JSON,
-Datamapper, HTML, CSS, HAML, SASS, LESS, Compass, Twitter Bootstrap, Photoshop,
-Inkscape, Capybara, Android  
-**Spoken Languages:** English, Mongolian  
 
 ##Work Experience:
 
-###The Church of Jesus Christ of Latter-day Saints: 
-####Lamp Developer -- Riverton, UT Apr. 2012 - Apr. 2013
+### Fulcrum Technologies: 
+#### Ruby on Rails Engineer -- Seattle, WA Aug. 2013 - Present
+* Participated in the development of Syrvel a modern assert tracking SaaS offering
+  built using tools such as Ruby on Rails, CoffeeScript, Haml, Sass, 
+* Worked as part of an agile team participating in agile processes such as daily
+  stand-ups, retrospectives, and iteration planning meetings
+* Collaborated with other developers through paired programming and code reviews
+
+### The Church of Jesus Christ of Latter-day Saints: 
+#### Lamp Developer -- Riverton, UT Apr. 2012 - Apr. 2013
 * Participated in the development of http://tech.lds.org
 * Developed custom extensions for Joomla, Mediawiki, PHPBB, and other open source and proprietary platforms
 * Created and interfaced with RESTful services
 * Developed software solutions to meet business needs using a variety of languages and frameworks including PHP, Javascript, jQuery, and SQL
 
-###Academic Computing Lab Services, Brigham Young University Hawaii: 
-####Systems Consultant -- Laie, HI Oct. 2010 - Apr. 2013
+### Academic Computing Lab Services, Brigham Young University Hawaii: 
+#### Systems Consultant -- Laie, HI Oct. 2010 - Apr. 2013
 * Deployed software across and maintained campus computing labs
 * Maintained Department's Drupal based website and LAMP servers
 * Created and developed web-applications for departmental use
 
-###Rice McVaney Communications: 
-####Microsoft Windows Campus Rep -- Laie, HI Feb. 2012 - May 2012
+### Rice McVaney Communications: 
+#### Microsoft Windows Campus Rep -- Laie, HI Feb. 2012 - May 2012
 * Presented 40+ one-on-one software trials each week
 * Presented software demos to large groups of 30+ people
 * Promoted and instructed users on the use of Microsoft software at various events
@@ -80,5 +80,13 @@ available and page scraping when no APIs were present, and allowed users to sear
 * Assisted individuals in learning religious principles, setting goals, and overcoming obstacles
 * Participated in and organized various humanitarian aid and service projects
 
-### Boy Scouts of America   
+### Boy Scouts of America
 * Eagle Scout
+
+##Skills:
+**Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP
+(Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK),
+Python, Perl, C++, SQL
+**Tools and Other Technologies:** Linux, vim, Git, SVN, Apache, Nginx, REST, SOAP, XML, JSON,
+Datamapper, HTML, CSS, HAML, SASS, LESS, Compass, Twitter Bootstrap, Capybara, Android
+**Spoken Languages:** English, Mongolian

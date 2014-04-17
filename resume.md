@@ -13,6 +13,7 @@
 * Was an integral member of an agile team participating in agile processes such as daily
   stand-ups, retrospectives, and iteration planning meetings
 * Collaborated with other developers through paired programming and code reviews
+* Configured and deployed to AWS
 
 ### The Church of Jesus Christ of Latter-day Saints: 
 #### Lamp Developer -- Riverton, UT Apr. 2012 - Apr. 2013
@@ -86,7 +87,8 @@ available and page scraping when no APIs were present, and allowed users to sear
 ##Skills:
 **Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP
 (Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK),
-Python, Perl, C++, SQL  
-**Tools and Other Technologies:** Linux, vim, Git, SVN, Apache, Nginx, REST, SOAP, XML, JSON,
-Datamapper, HTML, CSS, HAML, SASS, LESS, Compass, Twitter Bootstrap, Capybara, Android  
+Python, Perl, C++, SQL
+**Tools and Other Technologies:** Linux, Vim, Git, SVN, Apache, Nginx, BASH, Capistrano, AWS, Solr,
+RESTful Apis, ActiveRecord, Datamapper, HTML, HAML, CoffeeScript, CSS, SASS, LESS, Compass, Twitter Bootstrap,
+Capybara, Cucumber, Spinach, RSpec, Android
 **Spoken Languages:** English, Mongolian

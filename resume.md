@@ -2,18 +2,19 @@
 :telephone_receiver:  1-(808)-258-3362  
 :envelope:   me@cpitt.com  
 :bust_in_silhouette: http://cpitt.com  
+:octocat:  https://github.com/cpitt  
 
 
 ##Work Experience:
 
 ### Fulcrum Technologies: 
 #### Ruby on Rails Engineer -- Seattle, WA Aug. 2013 - Present
-* Took part in the development of Syrvel a modern asset tracking SaaS offering
-  built using tools such as Ruby on Rails, CoffeeScript, Haml, Sass
+* Participated in the development of [Syrvel](http://syrvel.com) a modern asset tracking SaaS offering
+* Worked extensively with Ruby, Ruby on Rails, CoffeeScript, Haml, SASS, RSpec, Spinach, and Capybara
+* Setup and configured deployment using Capristrano on Amazon with EC2, RDS, S3, Route53, ELB, and Ubuntu 12.04
 * Was an integral member of an agile team participating in agile processes such as daily
   stand-ups, retrospectives, and iteration planning meetings
 * Collaborated with other developers through paired programming and code reviews
-* Configured and deployed to AWS
 
 ### The Church of Jesus Christ of Latter-day Saints: 
 #### Lamp Developer -- Riverton, UT Apr. 2012 - Apr. 2013

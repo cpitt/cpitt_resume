@@ -4,6 +4,14 @@
 :bust_in_silhouette: http://cpitt.com  
 :octocat:  https://github.com/cpitt  
 
+##Skills:
+**Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP
+(Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK),
+Python, Perl, C++, SQL  
+**Tools and Other Technologies:** Linux, Vim, Git, SVN, Apache, Nginx, BASH, Capistrano, AWS, Solr,
+RESTful Apis, ActiveRecord, Datamapper, HTML, HAML, CoffeeScript, CSS, SASS, LESS, Compass, Twitter Bootstrap,
+Capybara, Cucumber, Spinach, RSpec, Android  
+**Spoken Languages:** English, Mongolian  
 
 ##Work Experience:
 
@@ -19,8 +27,8 @@
 ### The Church of Jesus Christ of Latter-day Saints: 
 #### Lamp Developer -- Riverton, UT Apr. 2012 - Apr. 2013
 * Participated in the development of http://tech.lds.org
-* Developed custom extensions for Joomla, Mediawiki, PHPBB, and other open source and proprietary platforms
-* Created and interfaced with RESTful services
+* Developed custom extensions for Joomla, Mediawiki, PHPBB, and other open source and proprietary platforms in PHP
+* Created and interfaced with RESTful services with PHP
 * Developed software solutions to meet business needs using a variety of languages and frameworks including PHP, Javascript, jQuery, and SQL
 
 ### Academic Computing Lab Services, Brigham Young University Hawaii: 
@@ -85,11 +93,3 @@ available and page scraping when no APIs were present, and allowed users to sear
 ### Boy Scouts of America
 * Eagle Scout
 
-##Skills:
-**Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP
-(Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK),
-Python, Perl, C++, SQL  
-**Tools and Other Technologies:** Linux, Vim, Git, SVN, Apache, Nginx, BASH, Capistrano, AWS, Solr,
-RESTful Apis, ActiveRecord, Datamapper, HTML, HAML, CoffeeScript, CSS, SASS, LESS, Compass, Twitter Bootstrap,
-Capybara, Cucumber, Spinach, RSpec, Android  
-**Spoken Languages:** English, Mongolian  

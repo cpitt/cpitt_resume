@@ -6,7 +6,7 @@
 
 ##Skills:
 **Programming Languages (Frameworks):** Ruby (Rails, Sinatra, Padrino), PHP
-(Codeigniter, Laravel), JavaScript (jQuery, Angularjs), Java (Android SDK),
+(Codeigniter, Laravel), JavaScript (jQuery, Angularjs, Node.js), Java (Android SDK),
 Python, Perl, C++, SQL  
 **Tools and Other Technologies:** Linux, Vim, Git, SVN, Apache, Nginx, BASH, Capistrano, AWS, Solr,
 RESTful Apis, ActiveRecord, Datamapper, HTML, HAML, CoffeeScript, CSS, SASS, LESS, Compass, Twitter Bootstrap,

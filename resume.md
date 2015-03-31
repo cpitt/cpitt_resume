@@ -18,7 +18,7 @@ Capybara, Cucumber, Spinach, RSpec, Android
 ### Clutch:
 #### Software Engineering Consultant -- Seattle, WA Jun. 2014 - Present
 * Worked along side teams of developers on various projects
-* Implemented and evangelized best practices and processes 
+* Implemented and evangelized best practices and processes
 * Mentored developers in new technologies and practices
 
   #### The Walt Disney Company

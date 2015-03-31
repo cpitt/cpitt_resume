@@ -20,6 +20,7 @@ Capybara, Cucumber, Spinach, RSpec, Android
 * Worked along side teams of developers on various projects
 * Implemented and evangelized best practices and processes
 * Mentored developers in new technologies and practices
+  
   #### The Walt Disney Company
   * Developed, evangelized, and implemented AngularJs standards and best practices bringing cleaner code, modularity,   testability, and short developer ramp up time to new and existing client-side applications.
   * Created build processes and tooling using GruntJs

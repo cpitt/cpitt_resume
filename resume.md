@@ -15,8 +15,20 @@ Capybara, Cucumber, Spinach, RSpec, Android
 
 ##Work Experience:
 
+### Clutch:
+#### Software Engineering Consultant -- Seattle, WA Jun. 2014 - Present
+* Worked along side teams of developers on various projects
+* Implemented and evangelized best practices and processes 
+* Mentored developers in new technologies and practices
+
+  #### The Walt Disney Company
+  * Developed, evangelized, and implemented AngularJs standards and best practices bringing cleaner code, modularity,   testability, and short developer ramp up time to new and existing client-side applications.
+  * Created build processes and tooling using GruntJs
+  * Utilized Chef to configure and maintain tiered application server environments
+  * Developed restful apis using Nodejs, Mongo, and Express
+
 ### Fulcrum Technologies: 
-#### Ruby on Rails Engineer -- Seattle, WA Aug. 2013 - Present
+#### Ruby on Rails Engineer -- Seattle, WA Aug. 2013 - Jun. 2014
 * Participated in the development of [Syrvel](http://syrvel.com) a modern asset tracking SaaS offering
 * Worked extensively with Ruby, Ruby on Rails, CoffeeScript, Haml, SASS, RSpec, Spinach, and Capybara
 * Setup and configured deployment using Capristrano on Amazon with EC2, RDS, S3, Route53, ELB, and Ubuntu 12.04

@@ -5,7 +5,7 @@
 :octocat:  https://github.com/cpitt  
 
 
-##Work Experience:
+## Work Experience:
 
 ### Clutch / Sendachi:
 #### Consultant -- Seattle, WA Jun. 2014 - May 2016

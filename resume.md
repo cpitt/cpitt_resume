@@ -1,4 +1,4 @@
-#Cameron Pitt
+# Cameron Pitt
 :telephone_receiver:  1-(808)-258-3362  
 :envelope:   me@cpitt.com  
 :bust_in_silhouette: http://cpitt.com  
@@ -90,14 +90,14 @@
 
 ## Education:
 
-###Brigham Young University Hawaii  - Apr. 2013 Laie, HI
+### Brigham Young University Hawaii  - Apr. 2013 Laie, HI
 **Bachelors of Science** - Information Systems  
 **Bachelors of Science** - Business Management - Supply Chain and Operations Management Track  
 **Minors:** Computer Science, Information Technology  
 **Cumulative GPA:** 3.97/4.00  
 **Honors:** Dean's List, Phi Kappa Phi, Upsilon Pi Epsilon, Computer and Information Sciences Outstanding Student Award  
 
-##Skills:
+## Skills:
 **Programming Languages (Framework):** JavaScript (Node, Angularjs, React, Koa ), Ruby (Rails, Sinatra, Padrino), PHP
 (Codeigniter, Laravel), Java (Android SDK), Python(Flask, Django), Perl, bash, C++
 
